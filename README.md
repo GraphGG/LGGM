@@ -42,7 +42,7 @@ g++ -O2 -std=c++11 -o orca orca.cpp
 ```
 
 ## Data
-Please download the zip files via [here](https://drive.google.com/file/d/11eleKk9dhO5nleUXFb9RJMuiwHnj5S0I/view?usp=drive_link) and unzip it into the folder in the root folder
+Please download the zip files via [here](https://drive.google.com/file/d/11eleKk9dhO5nleUXFb9RJMuiwHnj5S0I/view?usp=sharing) and unzip it into the folder in the root folder
 - graphsseed
 
 ## Running
